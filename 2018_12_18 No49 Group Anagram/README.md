@@ -1,4 +1,4 @@
-# Problem Discription
+# Problem Description
 Given an array of strings, group anagrams together.
 
 Example:
