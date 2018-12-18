@@ -22,7 +22,7 @@ Hash table, String.
 No records.
 
 # Run or Compile Error
-5     o_o
+5
 
 # Submission
 <1> Pass    64ms/25.81%
