@@ -48,4 +48,4 @@ No records
 
 # TODO
 - [ ] research best solution.  
-- [*] code built-in pointer version.  
+- [x] code built-in pointer version.  
