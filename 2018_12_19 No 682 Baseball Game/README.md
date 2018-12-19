@@ -43,7 +43,7 @@ No records
 # Run or Compile Error
 3
 # Submission
-<1> Pass 8ms/32.71%
+<1> Pass 8ms/32.71%  :smirk:
 
 # TODO
 - [ ] research best solution.  
