@@ -46,5 +46,5 @@ No records
 <1> Pass 8ms/32.71%
 
 # TODO
-[ ] research best solution.  
-[ ] code built-in pointer version.  
+- [ ] research best solution.  
+- [ ] code built-in pointer version.  
