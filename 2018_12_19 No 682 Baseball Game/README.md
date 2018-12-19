@@ -43,8 +43,9 @@ No records
 # Run or Compile Error
 3
 # Submission
-<1> Pass 8ms/32.71%  :smirk:
+<1> Pass 8ms/32.71%  :simple_smile:
+<2> Pass 8ms/99.66%  :blush:
 
 # TODO
 - [ ] research best solution.  
-- [ ] code built-in pointer version.  
+- [*] code built-in pointer version.  
