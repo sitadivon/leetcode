@@ -39,8 +39,12 @@ Every integer represented in the list will be between -30000 and 30000.
 # Type of Problem
 Stack
 # Used Time
-No record
+No records
 # Run or Compile Error
 3
 # Submission
 <1> Pass 8ms/32.71%
+
+# TODO
+[ ] research best solution.
+[ ] code built-in pointer version.
