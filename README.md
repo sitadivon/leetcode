@@ -8,3 +8,5 @@ has been coding **3 days**.
 | 2018-12-19 | 682 | Baseball Game | Easy | Stack | One Pass | None |
 | 2018-12-20 | 467 | Unique Substrings in Wraparound String | Medium | Dynamic Programming | 4 Fails | Finish it until learning DP |
 | 2018-12-20 | 1 | Two Sum | Easy | Array,Hash table | One Pass | None |
+| 2018-12-20 | 15 | Three Sum | Medium | Array, Two pointers | No idea | None |
+
