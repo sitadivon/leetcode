@@ -1,6 +1,6 @@
 # leetcode
 Daily practice for coding!  
-
+has been coding **3 days**.
 # Index
 | Date |  No  | Problem | Difficulty | Type | Status | Note |
 | ---- | :--: | ------- | ---------- | ---- | :------: | ---- | 
